@@ -1,3 +1,9 @@
+/*
+PRN - 22070123092
+
+C++ program to use pointers for character values.
+
+*/
 #include<iostream>
 using namespace std;
 int main()
