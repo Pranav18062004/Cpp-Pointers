@@ -21,3 +21,10 @@ int main()
     cout << "Value of a and b after swapping: " << a << " "<<b <<endl;
     return 0;
 }
+
+/*
+OUTPUT-
+Value of a and b before swapping: 5 2
+Value of a and b after swapping: 2 5
+*/
+
