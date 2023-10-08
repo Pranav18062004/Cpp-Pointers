@@ -1,6 +1,6 @@
 /*
 PRN - 22070123092
-Call By Reference
+POINTERS IN FUNCTION
 */
 #include<iostream>
 using namespace std;
