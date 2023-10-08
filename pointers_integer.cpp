@@ -25,3 +25,11 @@ int main()
 
     return 0;
 }
+/*
+OUTPUT:
+Value of a: 10
+Location of a: 0x7ffdb7d5a274
+Value of aptr: 0x7ffdb7d5a274
+Value of incremented aptr: 0x7ffdb7d5a278
+Value in double pointer aptr20x7ffdb7d5a268
+*/
