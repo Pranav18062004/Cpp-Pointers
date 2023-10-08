@@ -21,3 +21,11 @@ int main()
 
     return 0;
 }
+
+
+/*
+OUTPUT:
+Value of character: a
+Value of cr_ptr: 0x7ffd5093b867
+Value of Incremented cr_ptr: 0x7ffd5093b868
+*/
