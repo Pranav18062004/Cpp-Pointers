@@ -1,3 +1,7 @@
+/*
+PRN - 22070123092
+Call By Reference
+*/
 #include<iostream>
 using namespace std;
 
@@ -13,3 +17,8 @@ int main()
     cout << a << endl;
     return 0;
 }
+
+/*
+Output:-
+3
+*/
