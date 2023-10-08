@@ -21,3 +21,10 @@ int main()
 
     return 0;
 }
+
+/*
+OUTPUT:
+Value of float: 34.56
+Value of fl_ptr: 0x7fff7e16ade4
+Value of Incremented fl_ptr: 0x7fff7e16ade8
+*/
